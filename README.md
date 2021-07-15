@@ -1,2 +1,2 @@
 # Neural-Machine-Translation
-Neural Machine Translation to Translate from Fren to English Implemented with PyTorch
+Neural Machine Translation to Translate from French to English Implemented with PyTorch
